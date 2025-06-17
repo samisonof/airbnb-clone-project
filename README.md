@@ -1,9 +1,9 @@
-## airbnb-clone-project
+#  airbnb-clone-project
 
-## Project Description
+#  Project Description
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-## OLearningbjectives
+# OLearningbjectives
 
 By completing this project, you will:
 
@@ -13,13 +13,13 @@ Practice working in a team with defined roles
 Develop skills in component-based frontend architecture
 Learn best practices for web application development
 
-# Tech Stack
+## Tech Stack
 
 - Frontend: HTML, CSS, JavaScript (React or similar framework)
 - Version Control: Git and GitHub
 - Design Tools: Figma for UI/UX design
 
-# Requirements
+## Requirements
 
 1. Project Initialization
 
@@ -43,7 +43,7 @@ Learn best practices for web application development
 * Plan reusable UI components
 * Document component architecture
 
-# Best Practices
+## Best Practices
 - Code Organization: Maintain clean, modular code structure
 - Version Control: Use feature branches and meaningful commit messages
 - Responsive Design: Ensure mobile-first approach
@@ -51,36 +51,36 @@ Learn best practices for web application development
 - Documentation: Keep all project documentation updated
 - Testing: Implement unit and integration tests
 
-## UI/UX Design Planning
+# UI/UX Design Planning
 
-# Design Goals
+## Design Goals
 
 - Create intuitive booking flow
 - Maintain visual consistency
 - Ensure fast loading times
 - Prioritize mobile responsiveness
 
-# Key Features
+## Key Features
 
 - Property search and filtering
 - Detailed property viewing
 - Secure checkout process
 - User authentication
 
-# Primary Pages
+## Primary Pages
 
-# Page	                    Description
-Property Listing View------	Grid display of available properties with filters
-Listing Detailed View------	Complete property details with images and booking form
-Simple Checkout View-------	Streamlined payment and booking confirmation
+## Page	                         Description
+- Property Listing View--------- Grid display of available properties with filters
+- Listing Detailed View--------- Complete property details with images and booking form
+- Simple Checkout View---------- Streamlined payment and booking confirmation
 
 * Importance of User-Friendly Design
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
-## Figma Design Specifications
+# Figma Design Specifications
 
-# Color Styles:
+## Color Styles:
 
 - Primary: #FF5A5F
 - Secondary: #008489
@@ -88,15 +88,15 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Text: #222222
 - Secondary Text: #717171
 
-# Typography:
+## Typography:
 
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
 
-# Project Roles and Responsibilities
+## Project Roles and Responsibilities
 
- # Role	                      Responsibilities
+ ## Role	                      Responsibilities
 
 - Project Manager------------   Oversees timeline, coordinates team, manages deliverables
 - Frontend Developers--------	  Implements UI components, ensures responsive design
@@ -107,11 +107,11 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Product Owner--------------	  Defines requirements, prioritizes features, represents stakeholders
 - Scrum Master---------------	  Facilitates agile processes, removes blockers, organizes meetings
 
-## UI Component Patterns
+# UI Component Patterns
 
-# Planned Components
+## Planned Components
 
-# Navbar
+## Navbar
 
 - Logo
 - Search bar
@@ -119,13 +119,13 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Responsive menu
 - Property Card
 
-# Property image
+## Property image
 
 - Basic details (price, location, rating)
 - Favorite button
 - Responsive layout
 
-# Footer
+## Footer
 
 - Site links
 - Company information
